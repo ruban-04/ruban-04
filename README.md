@@ -19,6 +19,7 @@ I’m a passionate **Frontend Developer** who loves building intuitive and respo
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-blue)
+![ams](https://github-readme-stats.vercel.app/api?username=AmsavarthaniSelvaraj&show_icons=true&theme=radical)
 ## 🚀 Projects
 
 
