@@ -6,8 +6,8 @@ I’m a passionate **Frontend Developer** who loves building intuitive and respo
 
 ## 👨‍💻 About Me
 -🎓 Education: Bachelor of Science (BSc) in ComputerScience
-- 💼 Currently working as Frontend Developer in Ebrain Technology
-- - 🌱 I’m currently learning  React .
+-💼 Currently working as Frontend Developer at Ebrain Technology
+-🌱 I’m currently learning  React .
 
 
 ## 💻 Tech Stack
