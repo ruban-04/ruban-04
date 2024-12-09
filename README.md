@@ -23,11 +23,11 @@ I’m a passionate **Frontend Developer** who loves building intuitive and respo
 
 ## 🚀 Projects
 
-- **User-Authentication(JS):**[https://user-authentication-b5d01.web.app/](#)
+- **User-Authentication(JS):**(https://user-authentication-b5d01.web.app/)(#)
 
 ## 📫 Connect with Me
 
 - **Email:** kavitharuban3002@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/ruban-selvendiran-bb8b37321/](#)
+- **LinkedIn:** (https://www.linkedin.com/in/ruban-selvendiran-bb8b37321/)(#)
 
 ![](https://komarev.com/ghpvc/?username=Ruban123&color=green)
